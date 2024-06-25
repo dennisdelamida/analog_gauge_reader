@@ -1,0 +1,9 @@
+{
+    "input": "./image/",
+    "detection_model": "./models/gauge_detection_model.pt",
+    "key_point_model": "./models/key_point_model.pt",
+    "segmentation_model": "./models/segmentation_model.pt",
+    "base_path": "./path/to/results",
+    "debug": true,
+    "eval": true
+}
